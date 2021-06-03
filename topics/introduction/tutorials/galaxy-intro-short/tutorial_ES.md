@@ -1,18 +1,18 @@
 ---
-layout: tutorial_hands_on
+Diseño: tutorial_hands_on
 
-title: "Breve introducción a Galaxy - en español"
+Título: "Breve introducción a Galaxy - en español"
 zenodo_link: "https://doi.org/10.5281/zenodo.582600"
-level: Introductory
-questions:
+Nivel: Introductorio
+Preguntas:
   - "¿Cómo iniciar en Galaxy?"
-objectives:
+Objetivos:
   - "Aprender a cargar un archivo"
   - "Aprender a utilizar una herramienta"
   - "Aprender a visualizar resultados"
   - "Aprender a revisar historiales"
-time_estimation: "30m"
-key_points:
+Tiempo estimado: "30m"
+Puntos clave:
   - "La interfaz gráfica de Galaxy tiene las herramientas a la izquierda, el panel de visualización en el centro, y el historial de análisis de tus datos a la derecha."
   - "Puedes crear un historial nuevo en cada análisis. Todos tus historiales serán guardados."
   - "Para subir datos a Galaxy, puedes cargar un archivo pegando la dirección de una página web. Existen otras formas de subir datos a Galaxy (que no serán cubiertas en este tutorial): cómo cargar un archivo desde tu computadora e importar un historial completo."
@@ -21,16 +21,16 @@ key_points:
   - "Visualiza los archivos de salida haciendo clic en el icono del ojo."
   - "Visualiza todos tus historiales y mueve archivos entre ellos. Cambia a un historial diferente."
   - "Termina sesión en tu servidor de Galaxy. Cuando vuelvas a iniciar sesión (en el mismo servidor), tus historiales estarán allí."
-translations:
+Traducciones:
   - en
-contributors:
+Contribuyentes:
   - annasyme
   - pclo
   - ales-ibt
 
 ---
 
-# Overview
+# Descripción general
 {:.no_toc}
 * Esta es una breve introducción a la interfaz de usuario de Galaxy -  La página web con la que vas a interactuar.
 * En este tutorial vamos a cubrir tareas clave en Galaxy: cargar archivos, uso de herramientas y visualización de historiales.
@@ -304,7 +304,7 @@ Tu ventana principal de Galaxy mostrará el historia actual como "Nuevo-Analisis
 
 Puedes regresar a la página "View all histories" en cualquier momento para cambiar de historial.
 
-# Conclusion
+# Conclusión
 {:.no_toc}
 
 {% icon trophy %} ¡Bien hecho! Has completado el tutorial de Breve introducción a Galaxy, donde aprendiste a nombrar un historial, cargar un archivo, utilizar una herramienta y visualizar los resultados. Hay tutoriales adicionales disponibles para una introducción más detallada a las funciones de Galaxy.
